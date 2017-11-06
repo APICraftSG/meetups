@@ -6,8 +6,8 @@
 
 Month     | Date (Day)       | Confirmed?
 :---------|:-----------------|:----
-November | 10th (Friday)  | ✅
-December |                |
+[November](https://github.com/APICraftSG/meetups/issues/1) | 10th (Friday)  | ✅
+[December](https://github.com/APICraftSG/meetups/issues/2) |                |
 
 Check the calendar on our [Meetup page](https://www.meetup.com/preview/API-Craft-Singapore/events) for all upcoming events.
 
